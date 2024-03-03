@@ -6,3 +6,6 @@ output: github_document
 
 # My first commit
 Here is some text that constitutes my first commit in my first repo.
+
+# My second commit
+more text that will be added.
