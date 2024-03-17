@@ -5,7 +5,8 @@ output: github_document
 ---
 
 # My first commit
-Here is some text that constitutes my first commit in my first repo.
+Here is text that makes up my first commit in my first repo.
+text for another commit
 
 # My second commit
 more text that will be added.
